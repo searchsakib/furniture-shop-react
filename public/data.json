@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Modern Sofa",
-    "image": "modern_sofa.jpg",
+    "image": "https://i.ibb.co/thsbCyp/prod1.png",
     "price": 799.99,
     "description": "A sleek and comfortable modern sofa for your living room.",
     "category": "Living Room"
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Wooden Dining Table",
-    "image": "wooden_dining_table.jpg",
+    "image": "https://i.ibb.co/z4z7qVF/prod2.png",
     "price": 349.99,
     "description": "A sturdy wooden dining table that seats up to 6 people.",
     "category": "Dining Room"
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Leather Recliner Chair",
-    "image": "leather_recliner_chair.jpg",
+    "image": "https://i.ibb.co/FsmSVZW/prod3.png",
     "price": 499.99,
     "description": "A luxurious leather recliner chair for ultimate relaxation.",
     "category": "Living Room"
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Antique Bookshelf",
-    "image": "antique_bookshelf.jpg",
+    "image": "https://i.ibb.co/XLHs9LL/prod4.png",
     "price": 299.99,
     "description": "A vintage-inspired bookshelf with intricate details.",
     "category": "Home Office"
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "name": "Glass Coffee Table",
-    "image": "glass_coffee_table.jpg",
+    "image": "https://i.ibb.co/5KFqypJ/prod5.png",
     "price": 159.99,
     "description": "A stylish glass coffee table with a contemporary design.",
     "category": "Living Room"
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "name": "Bedroom Dresser",
-    "image": "bedroom_dresser.jpg",
+    "image": "https://i.ibb.co/FK52dyd/prod6.png",
     "price": 249.99,
     "description": "A spacious bedroom dresser with ample storage space.",
     "category": "Bedroom"
